@@ -46,10 +46,5 @@ Todos los proyectos siguen la misma estructura profesional:
 
 Mi CV completo está disponible en este mismo repositorio:
 
-- [CV Cristian Leal - Julio 2026 (PDF)](CV_Cristian_Leal_07-2026.pdf)
+- [CV Cristian Leal (PDF)](https://github.com/BatusayLeal/portafolio-java-fullstack/blob/main/CV_Cristian_Leal.pdf)
 
-## 📬 Contacto
-
-- **GitHub**: [BatusayLeal](https://github.com/BatusayLeal)
-- **Email**: crislealcelu@gmail.com
-- **LinkedIn / Ubicación**: Santiago, Chile
