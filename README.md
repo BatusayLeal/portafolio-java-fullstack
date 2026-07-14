@@ -17,11 +17,11 @@ Este repositorio centraliza mi portafolio de desarrollo Java profesional, enfoca
 
 | Proyecto | Descripción | Enlace |
 |---------|-------------|--------|
-| **SIGI** | Sistema de Gestión de Incidentes TI (Fullstack + Auth Cloud + Multi-DB) | [Ver repositorio](https://github.com/BatusayLeal/sigi-gestion-incidentes-java) |
-| **PAAT** | Plataforma de Administración de Activos TI | [Ver repositorio](https://github.com/BatusayLeal/paat-gestion-activos-ti) |
-| **MONIT** | Dashboard de Monitoreo y Continuidad Operacional | [Ver repositorio](https://github.com/BatusayLeal/monit-dashboard-infraestructura) |
-| **AUTHMULTI** | Módulo de Autenticación Multi-Cloud y LDAP | [Ver repositorio](https://github.com/BatusayLeal/authmulti-conectores-cloud-ldap) |
-| **APICONS** | Consumidor y Proveedor de APIs y WebServices Seguros | [Ver repositorio](https://github.com/BatusayLeal/apicons-webservices-seguros) |
+| **SIGI OFF** | Sistema de Gestión de Incidentes TI (Fullstack + Auth Cloud + Multi-DB) | [Ver repositorio](https://github.com/BatusayLeal/sigi-gestion-incidentes-java) |
+| **PAAT OFF** | Plataforma de Administración de Activos TI | [Ver repositorio](https://github.com/BatusayLeal/paat-gestion-activos-ti) |
+| **MONIT OFF** | Dashboard de Monitoreo y Continuidad Operacional | [Ver repositorio](https://github.com/BatusayLeal/monit-dashboard-infraestructura) |
+| **AUTHMULTI OFF** | Módulo de Autenticación Multi-Cloud y LDAP | [Ver repositorio](https://github.com/BatusayLeal/authmulti-conectores-cloud-ldap) |
+| **APICONS** | Consumidor y Proveedor de APIs publicos y WebServices Seguros | [Ver repositorio](https://github.com/BatusayLeal/apicons-webservices-seguros) |
 
 ## 🛠️ Stack Tecnológico
 
